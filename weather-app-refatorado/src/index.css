@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  margin: 0 auto;
+  font-family: sans-serif;
+  background-color: #A1C6EA;
+  background-image: url("https://media.giphy.com/media/xVn3ZmKrKIOLS/giphy.gif?cid=ecf05e479neqs5juwj3bmokd7eq6bvwge4l0kodf6y85lwn5&ep=v1_gifs_related&rid=giphy.gif&ct=g");
+  
+}
+
+a{
+  color: #fff;
+  text-decoration: none;
+}
